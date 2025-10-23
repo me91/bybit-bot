@@ -4,8 +4,7 @@
   "description": "Bybit Listing Bot",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "install-deps": "npm install discord.js axios node-cron express"
+    "start": "node index.js"
   },
   "dependencies": {
     "discord.js": "^14.14.1",
